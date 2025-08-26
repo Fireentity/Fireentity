@@ -94,3 +94,11 @@
   [![Instagram Badge](https://img.shields.io/badge/-lorenzo__croce-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/)&nbsp;
 
 </div>
+
+## 🏅 &nbsp;Badges
+
+<div>
+  <a href="https://cloud.layer5.io/user/724ae674-2804-4579-929a-816e68bccb29?tab=badges&badge=first-design">
+    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="200px"/>
+  </a>
+</div>
