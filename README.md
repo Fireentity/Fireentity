@@ -7,8 +7,6 @@
 📚 `Computer Engineering student at University of Padua` **[University of Padua](https://www.unipd.it/en)** <br>
 🌱 `Treasurer at` **[ArenaStudios APS](https://github.com/ArenaCraft)**<br>
 💡 `Passionate about` **Web Development frameworks**.<br>
-💬 `Ask me about **tech, coding, and AI**`.<br>
-⚡ `Fun fact: I drink too much ☕ while debugging 😅`<br>
 
   <br>
   
@@ -19,9 +17,6 @@
 <div align="center">
 
   `Computer Engineering Student @ UniPD`
-  <br>
-
-  `=========================`
   <br>
 
   `¯\_(ツ)_/¯`
@@ -42,22 +37,42 @@
 ## 🌟 &nbsp;My Projects
 
 <p>
-  <a href="https://github.com/Fireentity/operations-research-two-tsp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fireentity&repo=operations-research-two-tsp&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
-  </a>
-  <br>
-  <a href="https://github.com/Fireentity/wa2425-basette">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fireentity&repo=wa2425-basette&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
-  </a>
-    <br>
-  <a href="https://github.com/Fireentity/seupd2425-basette">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fireentity&repo=seupd2425-basette&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
-  </a>
-    <br>
 
-  <a href="https://github.com/ArenaCraft">
-    <img src="https://github.com/Fireentity/github-profile/blob/sism/logo-white.svg" alt="ArenaCraft logo" width="400"/>
-  </a>
+#### [🌐 Operations Research TSP Solver](https://github.com/Fireentity/operations-research-two-tsp)
+> This project provides an implementation of the Traveling Salesman  
+> Problem using Operations Research techniques in C.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)
+
+<br>
+
+#### [🧪 SEUPD 24/25 — Basette](https://github.com/Fireentity/seupd2425-basette)
+> This repository contains the system developed by **Team BASETTE** for the CLEF 2025 LongEval Lab (Task 1 – Web Retrieval).  
+> The work, published in the **CLEF 2025 Working Notes**, describes a configurable and multithreaded **Information Retrieval system** built in Java and powered by **Apache Lucene**.  
+> The system was designed to run efficiently on basic, resource-constrained hardware, deliberately avoiding GPUs, while achieving high performance through classical IR techniques, parallel indexing, and query processing.  
+> Hyperparameter optimization was conducted using Optuna, and the project explores both effective and discarded strategies for robust retrieval under real-world conditions.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Lucene](https://img.shields.io/badge/Apache%20Lucene-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+<br>
+
+#### [🏟️ ArenaCraft](https://github.com/ArenaCraft)
+> Organization for projects and repositories related to **ArenaCraft**.  
+> Hosting collaborative work, shared libraries, and open-source contributions.
+
+<br>
+
+#### [🧩 WA 24/25 — Basette](https://github.com/Fireentity/wa2425-basette)
+> Repository for the **Web Applications** 2024/25 course project.  
+> The web application was developed only using raw HTML, CSS and Java as backend.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 </p>
 
 <div>
