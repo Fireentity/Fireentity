@@ -1,18 +1,3 @@
-Testare Skyblock
-Configurare le isole
-Sistema di teste
-Attendere le build
-Contattare le sponsor
-Finire il sito
-Configurare icone cosmetici
-Configurare le crates
-
-Terms of Service
-Ranking di Bw
-Ranking di Practice
-VIPs
-
-
 <div>
 🔴🟡🟢
 
