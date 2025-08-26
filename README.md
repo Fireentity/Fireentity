@@ -61,8 +61,18 @@
 <br>
 
 #### [🏟️ ArenaCraft](https://github.com/ArenaCraft)
-> Organization for projects and repositories related to **ArenaCraft**.  
-> Hosting collaborative work, shared libraries, and open-source contributions.
+> **ArenaStudios A.P.S.** – custom Minecraft network and non-profit association.  
+> Co-founded and developed a fully custom infrastructure supporting **Minecraft 1.8 – 1.21.x** with capacity for **3000+ concurrent players** and 100% uptime.  
+> Replaced all public plugins with in-house Java solutions, enabling scalable generic servers capable of loading and running multiple game modes simultaneously.  
+> Designed and deployed [arenacraft.it](https://arenacraft.it) (**Vue.js + Laravel**) with real-time player stats and a donation gateway.  
+> Built a custom online shop powered by **Stripe**, replacing Tebex and drastically reducing costs while improving branding and payment control.
+
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
 
 <br>
 
