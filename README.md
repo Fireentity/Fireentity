@@ -1,3 +1,18 @@
+Testare Skyblock
+Configurare le isole
+Sistema di teste
+Attendere le build
+Contattare le sponsor
+Finire il sito
+Configurare icone cosmetici
+Configurare le crates
+
+Terms of Service
+Ranking di Bw
+Ranking di Practice
+VIPs
+
+
 <div>
 🔴🟡🟢
 
@@ -53,37 +68,28 @@
 ![PrimeVue](https://img.shields.io/badge/-PrimeVue-0D1117?style=flat&logo=primefaces&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat&logo=tailwindcss&logoColor=06B6D4)  
 
-
-
 </div>
 
 ## 🌟 &nbsp;My Projects
 
-<p align="center">
+<p>
   <a href="https://github.com/Fireentity/operations-research-two-tsp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fireentity&repo=operations-research-two-tsp&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
   </a>
+  <br>
   <a href="https://github.com/Fireentity/wa2425-basette">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fireentity&repo=wa2425-basette&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
   </a>
+    <br>
   <a href="https://github.com/Fireentity/seupd2425-basette">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fireentity&repo=seupd2425-basette&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
   </a>
+    <br>
+
+  <a href="https://github.com/ArenaCraft">
+    <img src="https://github.com/Fireentity/github-profile/blob/sism/logo-white.svg" alt="ArenaCraft logo" width="400"/>
+  </a>
 </p>
-
-
-
-
-<div>
-
-  ## 📊 &nbsp;My activities
-  <a href="https://github.com/lorenzocroce">
-    <img width=450 height=170 align="center" alt="Lorenzo Croce" src="https://github-readme-stats.vercel.app/api?username=lorenzocroce&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/lorenzocroce">
-    <img align="center" alt="Lorenzo Croce" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzocroce&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
 
 <div>
 
