@@ -63,7 +63,14 @@
   <a href="https://github.com/Fireentity/operations-research-two-tsp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fireentity&repo=operations-research-two-tsp&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
   </a>
+  <a href="https://github.com/Fireentity/wa2425-basette">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fireentity&repo=wa2425-basette&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Fireentity/seupd2425-basette">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fireentity&repo=seupd2425-basette&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+  </a>
 </p>
+
 
 
 
