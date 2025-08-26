@@ -1,14 +1,3 @@
-<div>
-🔴🟡🟢
-
-<br>
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lorenzocroce&color=blueviolet" alt="Profile views" />
-  &nbsp;
-</p>
 
 
 <div>
