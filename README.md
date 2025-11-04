@@ -90,7 +90,7 @@
   ## 📫 &nbsp;My Contacts
 
   [![LinkedIn Badge](https://img.shields.io/badge/-Lorenzo_Croce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-lorenzo_croce@outlook.it-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:lorenzo_croce@outlook.it)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-lorenzo__croce-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/)&nbsp;
 
 </div>
